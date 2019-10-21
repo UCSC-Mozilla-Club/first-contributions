@@ -1,6 +1,6 @@
-﻿# First Contributions
+# First Contributions
 
-[![Mozilla Club]](https://www.facebook.com/UCSCMozillaClub/)
+#[Mozilla Club](https://www.facebook.com/UCSCMozillaClub/)
 
 It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
@@ -100,10 +100,7 @@ Soon We'll be merging all your changes into the master branch of this project. Y
 
 Congrats!  You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
 
-
-
-
-
+Contact UCSC Mozilla Club
 [![Facebook](https://github.frapsoft.com/social/facebook.png)](https://www.facebook.com/UCSCMozillaClub/)
 [![Gitter](https://github.frapsoft.com/social/gitter.png)](https://gitter.im/UCSCMozilla/community#)
 [![Github](https://github.frapsoft.com/social/github.png)](https://github.com/UCSC-Mozilla-Club)
