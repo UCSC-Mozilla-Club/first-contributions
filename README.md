@@ -6,7 +6,7 @@ It's hard. It's always hard the first time you do something. Especially when you
 
 Reading articles & watching tutorials can help, but what's better than actually doing the stuff in a practice environment? This project aims at providing guidance & simplifying the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
-#### *If you're not comfortable with command line, [here are tutorials using GUI tools.]( #tutorials-using-other-tools )*
+#### *If you're not comfortable with command line, [here are tutorials using GUI tools.]( https://www.youtube.com/watch?v=HVsySz-h9r4 )*
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
@@ -101,6 +101,7 @@ Soon We'll be merging all your changes into the master branch of this project. Y
 Congrats!  You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
 
 Contact UCSC Mozilla Club
+
 [![Facebook](https://github.frapsoft.com/social/facebook.png)](https://www.facebook.com/UCSCMozillaClub/)
 [![Gitter](https://github.frapsoft.com/social/gitter.png)](https://gitter.im/UCSCMozilla/community#)
 [![Github](https://github.frapsoft.com/social/github.png)](https://github.com/UCSC-Mozilla-Club)
