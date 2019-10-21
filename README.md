@@ -100,6 +100,9 @@ Soon We'll be merging all your changes into the master branch of this project. Y
 
 Congrats!  You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
 
+### [Additional material](https://github.com/UCSC-Mozilla-Club/Github-Git-Cheat-Sheet/blob/master/README.md)
+
+
 Contact UCSC Mozilla Club
 
 [![Facebook](https://github.frapsoft.com/social/facebook.png)](https://www.facebook.com/UCSCMozillaClub/)
