@@ -102,8 +102,8 @@ Congrats!  You just completed the standard _fork -> clone -> edit -> PR_ workflo
 
 ### Additional materials
 
-[Github Cheat Sheet](https://github.com/UCSC-Mozilla-Club/Github-Git-Cheat-Sheet/blob/master/README.md)
-[Markdown Syntax](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+- [Github Cheat Sheet](https://github.com/UCSC-Mozilla-Club/Github-Git-Cheat-Sheet/blob/master/README.md)
+- [Markdown Syntax](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
 Contact UCSC Mozilla Club
 
