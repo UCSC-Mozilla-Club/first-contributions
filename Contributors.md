@@ -1,4 +1,4 @@
 # Contributors
 
 - [Lahiruka Wijesinghe](https://github.com/lahirukawijes)
-Nilukshan
+- [Nilukshan Krishnaram](https://github.com/knilukshan)
