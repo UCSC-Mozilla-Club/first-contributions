@@ -4,4 +4,4 @@
 - [Nilukshan Krishnaram](https://github.com/knilukshan)
 - [Jatin Prakash](https://github.com/bicycleman15)
 - [Ernesto Vizcaino](https://github.com/Ernesto385291)
-- [Madhusha Prasad] (https://github.com/MadhushaPrasad)
+- [Madhusha Prasad](https://github.com/MadhushaPrasad)
